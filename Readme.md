@@ -49,5 +49,12 @@
 
 ![изображение](https://github.com/AlexanderSerg-jun/hw_SELinux_p2/assets/85576634/29b72726-1941-46a3-bc68-857f1706e299)
 
+Перезагрузим хосты и проверим еще раз
+![изображение](https://github.com/AlexanderSerg-jun/hw_SELinux_p2/assets/85576634/a2ce7cd8-b93e-4a8a-9577-d853dbb01315)
+Как мы видим изменения сохранились.
+
+![изображение](https://github.com/AlexanderSerg-jun/hw_SELinux_p2/assets/85576634/7a4eff6b-c683-41ba-8cbf-798fe2ff499e)
+
+
 
 
